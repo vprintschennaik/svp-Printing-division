@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "PrintCraft - Professional Printing Solutions in Chennai",
+  title: "Shri Vignesh Prints - Professional Printing Solutions in Chennai",
   description:
     "High-quality printing services for brochures, flyers, banners, packaging and labels in Chennai. Get your printing needs done right.",
   generator: "v0.app",
